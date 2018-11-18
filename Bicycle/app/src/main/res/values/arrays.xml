@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="locList">
+        <item>서울</item>
+        <item>수원</item>
+        <item>부산</item>
+        <item>천안</item>
+    </string-array>
+
+    <string-array name="mainFuncList">
+        <item>지도</item>
+        <item>커뮤니티</item>
+        <item>동호회</item>
+    </string-array>
+</resources>

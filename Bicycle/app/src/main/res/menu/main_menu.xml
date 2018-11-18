@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mapsFunc"
+        android:title="지도"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/clubFunc"
+        android:title="동호회"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/commuFunc"
+        android:title="커뮤니티"
+        app:showAsAction="never"/>
+</menu>
